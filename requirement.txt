@@ -1,0 +1,4 @@
+jupyter
+ipython-sql
+sqlalchemy
+ipykernel
